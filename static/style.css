@@ -1,0 +1,5 @@
+/* 削除ボタン */
+.delete_item {
+  cursor: pointer;
+  text-align: center;
+}
