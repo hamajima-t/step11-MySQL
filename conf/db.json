@@ -1,7 +1,0 @@
-{
-  "host": "localhost",
-  "port": 3306,
-  "db-name": "go_example",
-  "user": "root",
-  "pass": "xxxxxxxx"
-}
