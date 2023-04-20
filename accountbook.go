@@ -135,3 +135,5 @@ func (s *Summary) Avg() float64 {
 	}
 	return float64(s.Sum) / float64(s.Count)
 }
+11111
+
